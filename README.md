@@ -1,4 +1,7 @@
 # Unofficial Implementation of [GeNVS](https://arxiv.org/abs/2304.02602)
+
+![Teaser](teaser.gif)
+
 Alex Berian, Daniel Brignac, JhihYang Wu, Natnael Daba, Abhijit Mahalanobis  
 University of Arizona  
 Built off of [EDM](https://github.com/NVlabs/edm) from Nvidia  
